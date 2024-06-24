@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Virat Kohli -page</title>
+<h1><b>my Virat Kohli</h1>
+<marquee>Hey everyone!</marquee>
+</head>
+</html>
